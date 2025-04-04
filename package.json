@@ -74,6 +74,7 @@
     "@auth/mongodb-adapter": "latest",
     "bcryptjs": "latest",
     "mongoose": "^7.6.3",
+    "jsonwebtoken": "^9.0.2",
     "@aws-sdk/s3-request-presigner": "latest"
   },
   "devDependencies": {
