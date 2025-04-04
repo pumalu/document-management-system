@@ -73,6 +73,7 @@
     "next-auth": "latest",
     "@auth/mongodb-adapter": "latest",
     "bcryptjs": "latest",
+    "mongoose": "^7.6.3",
     "@aws-sdk/s3-request-presigner": "latest"
   },
   "devDependencies": {
