@@ -1,0 +1,2 @@
+touch app/.gitkeep
+touch pages/.gitkeep
